@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body,
+main,
+nav,
+footer,
+div {
+  margin: 0;
+  padding: 0;
+  display: block;
+}
